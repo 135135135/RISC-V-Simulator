@@ -29,6 +29,13 @@
    - 导入`prog.bin`或其他riscv机器码。
    - 运行电路仿真，观察内存和寄存器堆数值变化。
 
+## 示范图
+
+![architech](assets/architech.jpg)
+
+![regdump](assets/regdump.jpg)
+
+![test_result](assets/test_result.png)
 
 ## 贡献指南
 欢迎对本项目提出改进建议或提交代码贡献：
