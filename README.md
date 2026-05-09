@@ -35,7 +35,7 @@
 
 ![regdump](assets/regdump.jpg)
 
-<img src="assets/test_result.png" alt="test_result" style="zoom: 33%;" />
+![test_result](assets/test_result.png)
 
 ## 贡献指南
 欢迎对本项目提出改进建议或提交代码贡献：
